@@ -22,7 +22,7 @@ code .
 
 # Contributing
 
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğini tartışmak için bir konu açınız. ,,
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğini tartışmak için bir konu açınız.
 
 # License
 
